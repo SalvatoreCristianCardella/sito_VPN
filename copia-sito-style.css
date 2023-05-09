@@ -1,0 +1,27 @@
+.sign-in{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+.sign-in:hover {
+    text-decoration: underline;
+}
+.immage{
+    width: 50%;
+}
+.margintop{
+    margin-top: 200px;
+}
+.marginbottom{
+    margin-bottom: 100px;
+}
+.immage-card{
+    width: 80%;
+}
+.card1{
+    height: 600px;
+}
+.cardmia{
+    background-color: aqua;
+}
